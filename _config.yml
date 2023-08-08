@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://italiansquirel.com"
+  Petie's Site: "https://italiansquirel.com"
 
 ################
 # --- Logo --- #
@@ -52,11 +52,11 @@ round-avatar: false
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+ # facebook: deanattali
+  github: italiansquirel
+#  twitter: daattali
+#  patreon: DeanAttali
+ # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -64,7 +64,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+  spotify: italiansquirel
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
