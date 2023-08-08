@@ -1,1 +1,0 @@
-<img src="https://raw.githubusercontent.com/ItalianSquirel/tate-website/main/Screenshot%202023-08-03%20at%202.31.38%20PM.png"  width="1200" height="800">
