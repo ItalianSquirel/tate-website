@@ -3,7 +3,7 @@ layout: post
 title: Fishing Chronicles
 subtitle: Epic Fails at Chena Lake, Alaska
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/dory.jpeg
 share-img: /assets/img/path.jpg
 tags: [Chena, Lake]
 ---
