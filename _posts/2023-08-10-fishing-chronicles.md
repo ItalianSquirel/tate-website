@@ -7,7 +7,6 @@ thumbnail-img: /assets/img/dory.jpeg
 share-img: /assets/img/path.jpg
 tags: [Chena, Lake]
 ---
-# **Fishing Chronicles: Epic Fails at Chena Lake, Alaska**
 
 ## 🐟 So, Here's the Fishy Scoop...
 
@@ -34,5 +33,6 @@ In the end, Chena Lake might have kept its secrets safe from us, but we had a bl
 **Fishy tales & soggy high-fives,**
 
 *Petie Deveer 🎣
-*Your Quirky Fishing Blog* 🐠
+
+*Your Quirky Fishing Blog* 🐠 
 *8/10/23* 📅
